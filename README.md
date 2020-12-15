@@ -13,4 +13,4 @@
      3. Don't be afraid to ask questions
 
 ### Still Curious?
-    [Learn More Here](https://www.mindsetworks.com/science/)
+Learn More Here](https://www.mindsetworks.com/science/)
